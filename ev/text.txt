@@ -1,0 +1,1112 @@
+This paper introduces the concept of purposefully constructed activity system (PCAS) as
+a step toward a body of knowledge for information systems (ISBoK). The category of
+PCAS includes sociotechnical activity systems (that include human participants) and
+totally automated information systems, both of which are core topics for the IS discipline.
+This paper proposes 20 intrinsic principles and 7 observability principles that apply to
+any PCAS and that support contextually-focused normative principles from different
+sources. Intrinsic principles apply to the purpose, form, operation, and evolution of every
+PCAS. Observability principles apply to perceptions of any particular PCAS.
+Contextually-focused normative principles express guidance about desirable
+characteristics or qualities of the form and operation of a particular type of PCAS. A
+concluding section discusses potential applications of the new idea of PCAS and PCAS
+principles. It also explains how the idea of PCAS can be used in an ISBoK.
+Keywords: System, activity system, IS principles, ISBoK (information systems body of
+knowledge)
+
+The Need to Return to Practical, Understandable Basics
+An organized body of knowledge for IS (ISBoK) would contribute significantly to the IS field’s espoused
+concerns about achieving rigor, relevance, and influence in the real world. For example, Hirschheim and
+Klein (2003) said that "defining a theoretically appealing, yet practically relevant, action–oriented body of
+knowledge could provide a type of 'Rosetta Stone' for IS as an applied discipline." (p. 263). They also noted
+the need for a shared language. "Without such a language, it is difficult to arrive at a consensual core body
+of knowledge or even to begin framing the issue of coding such a shared BoK for the discipline as a whole.
+Categorization schemes that make up the subject areas of IS (cf. Barki et al. 1988; Bacon and Fitzgerald
+2001) are a useful start for developing a shared language for the field, but that has not led to a discussion
+on how IS knowledge as a whole should be structured." (p. 244). Iivari et al (2004) tried to establish a
+“foundation for building a cumulative IS BoK” by coding 118 articles from MISQ and ISJ that were related
+to IS development. Alter (2012) suggested a 3-dimensional scaffolding that organizes vocabulary,
+principles, and empirical findings using work system concepts and recognizing that information system is
+a special case of work system.
+A key obstacle to developing an ISBoK is the rampant overlaps and inconsistencies in definitions of terms
+such system, information system, service, and implementation. “It is no exaggeration to describe most IS
+researchers as having used the term ‘system’ or ‘systems’ to refer to just about anything that involves
+
+Principles for Purposefully Constructed Activity Systems
+
+Thirty Seventh International Conference on Information Systems, Dublin 2016 2
+electronic information processing.” (Lee 2010, p. 339) An especially important example is the way the term
+system often takes on two contradictory meanings: 1) system as a general-purpose synonym of software or
+hardware-software configuration and 2) system as a sociotechnical system with human participants. A
+directly related issue is the use of vastly inconsistent definitions of information system. The four definitions
+in Table 1 are drawn from a list of 20 definitions of IS in Alter (2008) that were arranged along a continuum
+from primarily social (technology plays a background role, if any) to sociotechnical (containing human
+participants and noteworthy technical components) to largely technical (technical system, direct or indirect
+use by people). It is difficult to imagine a coherent ISBoK that is based on multiple inconsistent definitions
+of its core topic, information system.
+“An information system is a social system, which has embedded in it information technology. The
+extent to which information technology plays a part is increasing rapidly. But this does not prevent the
+overall system from being a social system, and it is not possible to design a robust, effective information
+system, incorporating significant amounts of the technology without treating it as a social system.”
+(Land (1985, p. 215), cited by Magalhães (1999, p. 6))
+“A system in the organization that delivers information and communication services needed by the
+organization.” (Davis 2000, p. 67)
+“An organizational (sub) system that consists of technical, organizational, and semiotic elements that
+is capable of information processing.” (Lyytinen & Newman 2006, p. 4)
+“Assumed to mean computer-based systems, which are combinations of hardware, software, and
+telecommunications networks that people build and use to collect, create, and distribute useful
+information.” (Jessup & Valacich 2008, p. 567)
+Table 1. Examples from a list of 20 definitions of information system in Alter (2008)
+A new starting point. This paper presents a new starting point for describing and analyzing the kinds of
+systems and phenomena that are relevant in the IS field. The core of the new ideas is the concept of a
+purposefully constructed activity system (PCAS). That term is more specific than the term system, is
+general enough encompass all information systems and other kinds of systems that are of interest in the IS
+field (such as activity systems, IT-reliant work systems, and IT systems), and does not attempt to be yet
+another definition of IS. This paper discusses three types of PCAS principles:
+ Intrinsic principles apply to the purpose, form, operation, and evolution of every PCAS.
+ Observability principles apply to perceptions of any particular PCAS, and
+ Contextually-focused normative principles express guidance about desirable characteristics or qualities
+of the form and operation of a particular type of PCAS.
+Ideally, any framework or worldview for understanding PCAS in general should be consistent with intrinsic
+principles and observability principles that apply to every PCAS and should support contextually-focused
+normative principles for specific types of PCAS. All three types of principles might be based on a particular
+theoretical perspective such as activity theory, organizational routines, practice theory, sociotechnical
+system theory, or work system theory. At minimum, the clarity and specificity of any framework, worldview,
+or set of concepts should suffice for evaluating its consistency with the principles.
+Organization. The next section explains why extremely general perspectives on systems tend to be too
+general to be of direct use in most IS practice and IS research. The concept PCAS is presented as a
+compromise between excessive generality and context-driven specificity in identifying system-related
+concepts and principles. Many examples of principles of all three types illustrate the possibility that such
+principles could be a starting point for an ISBoK. To minimize redundancy, this paper disperses numerous
+citations to wherever they are relevant instead of providing a separate literature review.
+Methodology. The ideas presented here evolved through a highly iterative process of conceptualizing,
+writing, looking for inconsistencies and omissions, and revising in order to produce an internally consistent
+set of fundamental principles. In other words, this paper is not based on a Delphi study, extensive literature
+review, or any other highly organized and replicable method that might be prescribed by proponents of one
+research method or another. On the other hand, this paper’s iterative approach is generally consistent with
+discussions about the non-formulaic process of theorizing and developing theoretical contributions that
+
+Principles for Purposefully Constructed Activity Systems
+
+Thirty Seventh International Conference on Information Systems, Dublin 2016 3
+have appeared in leading IS journals such as MIS Quarterly (Rivard, 2014) JAIS (Hirschheim 2008), and
+EJIS (Rowe 2012), and previously in other fields (e.g., Weick 1995). Moreover, the general approach is
+consistent with Grover and Lyytinen’s (2015) discussion in MIS Quarterly about why formulaic scripts
+should not be expected in theory development research.
+This research stemmed from an informal discussion at ICIS 2015 with Prof. Carson Woo of the University
+of British Columbia. He suggested that I should identify basic principles underlying work system theory,
+WST (Alter 2013, 2015b). My initial suggestion was an existing set of normative principles (Alter and Wright
+2010), three of which appear in Table 3. In subsequent Skype calls, Prof. Woo and his colleague Alirio
+Rosales, a philosopher of science, argued persuasively that basic WST principles simply had to be more
+basic. Recognizing their deep grounding in the philosophy of science, I assumed they were right and
+struggled to invent a more basic set of principles. A preliminary notion of PCAS occurred to me after one of
+those discussions. A Feb. 12, 2016 email from Prof. Woo said “As we view it, your ‘purposeful system
+principles’ are what we call ‘theoretical principles;’ Your ‘normative design principles’ are what we call
+‘modeling principles.’ Both kinds of principles are involved in how theories are presented and organized in
+physics and other natural sciences.”
+Coining the term PCAS was part of an attempt to articulate genuine basics by talking about work systems
+in a way that did not use the term work system, which has been used in various ways by sociotechnical
+researchers for decades. (I was not aware of that use when I started thinking about WST in the 1990s, when
+today’s search capabilities and repositories did not exist.) Several months after the conversations about
+basic principles I produced the first draft of this paper through clarifications and extensions of the ideas
+developed to that point. (For author anonymity, this background did not appear in the original submission.)
+Broad Systems Perspectives and Ontologies
+A first lecture or chapter on IS often says that information systems are open systems described by general
+system theory (GST). Shortly thereafter GST tends to disappear from view because its level of generality is
+too high to lead to genuine insights about most IS research and practice. Skyttner (2005, pp. 56-57) notes
+that a system is not something presented to an observer; rather, it is something to be recognized by an
+observer. Skyttner cites definitions of system such as, "anything that is not chaos" (Boulding 1964), "a
+structure that has organized components." (Churchman 1979), and "a set of variables sufficiently isolated
+to stay constant long enough for us to discuss it." (Ashby quoted by Skyttner 2005). GST "integrates a broad
+range of special system theories by naming and identifying patterns and processes common to all of them.
+By use of an overarching terminology, it tries to explain their origin, stability and evolution. While special
+systems theory explains the particular system, GST explains the systemness itself, regardless of class or
+level.” (Skyttner 1996, p. 16).
+A similar issue applies to upper level ontologies such as the Bunge-Wand-Weber (BWW) ontology (Wand
+and Weber 1990), which contains extremely general concepts about the world, such as thing, property,
+class, kind, state, conceivable state space, state law, stable state, unstable state, history, event, conceivable
+event space, lawful event space, external event, and so on. Upper level ontologies have been used in research
+aimed at developing solid conceptual foundations for modeling methods and tools (e.g., Rosemann et al.
+2004, Recker et al. 2006,). Nonetheless, I believe (without empirical evidence) that most business and IT
+professionals cannot work or are not willing to work at the level of abstraction and rigor required to
+appreciate the significance of BWW and other upper level ontologies.
+Prior conceptual research specifically about systems, but not information system per se, appears in Ackoff
+(1971), which identifies important concepts such as abstract vs. concrete system, open vs. closed system,
+state of a system, event, static vs. dynamic system, homeostatic system, and so on. That article’s
+classification of systems includes purposeful systems, a fundamental idea for PCAS. While not a
+shortcoming in relation to its own purposes, Ackoff (1971) focuses on systems in general and does not
+mention information systems. The current paper tries to pick up where Ackoff (1971) left off by identifying
+a series of principles that apply to PCASs (a new category within systems in general). Those principles apply
+to information systems because information systems constitute a category within PCAS.
+
+Principles for Purposefully Constructed Activity Systems
+
+Thirty Seventh International Conference on Information Systems, Dublin 2016 4
+
+Purposefully Constructed Activity System (PCAS)
+This paper’s focus on PCAS reflects an attempt to find the trade-off between too much generality and too
+much specificity in system concepts and principles. Too much generality tends to reduce usefulness in
+specific situations by not providing enough guidance. Too much specificity focuses too much on a specific
+type of situation and becomes a constraint that blocks useful application to other types of situations.
+PCAS provides an envelope that encompasses a number of theory-based perspectives on systems in the IS
+field. Examples of those perspectives include activity theory (Kaptelinin and Nardi 2006; Luukkonen et al.
+2010), organizational routines (Feldman and Pentland 2003; Pentland et al. 2011), sociotechnical theory
+(Cherns 1976, 1987; Bostrom and Heinen 1977; Trist 1981; Majchrzak and Borys 2001; Mumford 2006),
+and work system theory (Alter 2013). As a category, PCAS fits most or all of the systems and system types
+that can be described using all of those approaches. For example, PCAS fits not only for work systems in
+
+general, but also for special cases of work system such as information systems, projects, supply chains, self-
+service systems, and automated work systems.
+
+The concept of PCAS combines the ideas of system, purposeful system, activity system, and constructed
+system. Its meaning is built up from the meanings and implications of the four terms in its name.
+System. General discussions of systems and system concepts typically start with a definition such as the
+following: “A system is a set of parts coordinated to accomplish a set of goals (Churchman 1979, p. 29). In
+a similar definition, “a system is a set of interrelated elements. ... Each of a system’s elements is connected
+to every other element, directly or indirectly” (Ackoff 1971, p. 662). Introductions to systems usually
+mention concepts such as input, transformation, output, boundary, and environment, and explain that a
+system is more than the sum of its components due to emergent properties that result from interactions
+between those components. Those ideas provide little guidance for understanding systems that the IS field
+studies, which range from largely automated systems to sociotechnical systems with human participants.
+Churchman (1979, p. 29) notes “five basic considerations” to keep in mind when thinking about the meaning
+of a system: 1) total system objectives, 2) the system’s environment, 3) resources, 4) components of the
+system – their activities, goals, and measures of performance, 5) the management of the system.
+A book on principles for designing computer systems is a bit more specific about aspects of behavior and
+observability: “A system is a set of interconnected components that has an expected behavior observed at
+the interface with its environment.” (Saltzer and Kaashoek 2009, p. 8). Expected behavior and observation
+at the interface are useful for understanding computer systems designed and engineered to meet specific
+requirements. However, that definition’s focus on observability at the interface makes it unsatisfactory for
+much research about organizational or behavioral topics related to activities within operational systems,
+especially about how and why individuals and groups of system participants may or may not behave as a
+designer anticipated. Systems with human participants often are highly adaptive and evolve over time. For
+example, Checkland (1999a, p. 50) proposes the notion of an “adaptive whole” which involves four core
+ideas of system thinking: emergent properties, layered structure, processes of communication, and control.
+This paper covers similar ideas in a different way to highlight additional points that may contribute to
+developing an ISBoK that provides guidance for describing and analyzing IT-reliant systems.
+Purposeful system. A purposeful system is a set of components that individually and through mutual
+interactions contribute to achieving the system’s purpose(s) of producing outputs in a way that meets the
+system’s goals. Those goals may include internal goals such as productivity and job satisfaction plus
+external, customer-focused goals such as low cost to the customer and high responsiveness to customer
+needs. The underlying ideas go back at least to Ackoff’s (1971) focus on purposeful systems, Simon’s (1971)
+discussions of artificial systems, and Churchman’s (1979) observations about the systems approach.
+Activity system. An activity system performs discrete activities (actions) that usually have a beginning
+and end. The activities are performed by actors that may be biological actors (people or other animals),
+mechanical actors (physical devices whose physical form and location matters), or totally automated digital
+actors performing activities that might occur on different physical machines.
+The concept of activity system has existed in the IS field for at least two decades. Engeström (1993) and
+Checkland (1999b) both speak about human activity systems. A significant shortcoming of assuming that
+IS focuses primarily on human activity systems is that many important activity systems in the IS field are
+not human activity systems, but rather are totally automated systems such as search systems and various
+
+Principles for Purposefully Constructed Activity Systems
+
+Thirty Seventh International Conference on Information Systems, Dublin 2016 5
+embedded systems that monitor and control environments, processes, and equipment. Furthermore,
+decomposition of human activity systems into subsystems often isolates totally automated systems, which
+therefore need to be part of the discourse, and definitely should not be ignored as an irrelevant category.
+Purposefully constructed activity system. The form and operation PCASs is purposefully created,
+maintained, and changed over time. Checkland (1999a, pp. 50-51) says that system ideas have been
+exploited in three areas of study: natural systems (wholes which nature creates) “designed systems” (wholes
+made and designed by human beings), and human affairs (“including the subject areas of management, and
+within that, information systems”). The following inclusions and exclusions clarify where PCAS fits.
+Inclusions and Exclusions
+The category name PCAS conveys many ideas that are not conveyed by the term system. Specifically, a PCAS
+is a system that is purposeful, that is constructed, and that performs activities. Most or all information
+systems of interest in the IS field have those characteristics.
+Including totally automated systems. A plausible default assumption is that a PCAS is a human
+activity system. That assumption does not hold in many important cases where the entire PCAS of interest
+is totally automated or where a PCAS of interest may have a totally automated subsystem that is a PCAS on
+its own right. While the inclusion of totally automated systems might seem contrary to the commonly
+repeated assumption that the IS discipline is about sociotechnical systems, the realities of current trends in
+automation imply that IS research should recognize that a system that is sociotechnical today may be
+transformed tomorrow into a partially or totally automated version. (These points about totally automated
+systems are one of the reasons why Alter (2013) notes that work systems, as defined in work system theory,
+may be human activity systems (sociotechnical systems) or totally automated systems.)
+Assuming an organizational setting. A plausible default assumption is that a PCAS exists in an
+organizational setting or a network such as a value chain. The default assumption does not always hold,
+however. A PCAS may involve activities performed by one individual for that individual’s benefit, and
+therefore may or may not exist in an organizational setting.
+Excluding natural biological systems. In relation to the IS field, the category PCAS excludes natural
+biological systems that may or may not have been constructed purposefully. Natural biological systems
+whose purposeful construction is guided through instinct and/or learning include systems for building and
+maintaining ant colonies and systems for searching for food or hunting in packs. Examples of purposeful
+natural systems that were not constructed purposefully include biological systems for bodily functions such
+as pumping blood through the circulatory system or digesting food.
+Excluding static representations, such as software per se. The category PCAS excludes static
+representations that might be viewed as systems, such as abstract algorithms, frameworks, static models,
+methods, mappings, or printed books. Static representations are excluded because they do not perform
+activities even though they may guide activities of human or automated actors. Thus, software and other
+representations or documentation are not PCASs even though they may play essential roles within PCASs.
+Relevant hierarchy of system types
+Figure 1 illustrates the above distinctions graphically, first saying that only some of the things in the world
+are usefully viewed as systems. Systems of interest in IS include artificial systems and natural systems.
+Artificial systems include activity systems (work systems), static representations (such as software), and
+other types of artificial systems that are not mentioned in Figure 1. Activity systems (almost always
+purposefully constructed, and therefore PCASs) include information systems, totally automated work
+systems, and other systems that fit neither category, e.g., systems in which physical work is important.
+Information systems are activity systems (work systems) that may or may not be totally automated.
+This section defined the concept of PCAS. It explicitly included sociotechnical and totally automated
+systems and explicitly excluded natural biological systems and static representations such as frameworks,
+static models, and software. The next three sections introduce intrinsic principles, observability principles,
+and contextually-focused normative principles. A central goal of those sections is to unpack ideas about
+systems in general in order to illuminate those ideas and make them more accessible and more directly
+useful in relation to systems that are studied in the IS field.
+
+Principles for Purposefully Constructed Activity Systems
+
+Thirty Seventh International Conference on Information Systems, Dublin 2016 6
+
+Natural systems
+Totally automated work systems Information systems
+
+Everything
+Systems
+Artificial systems Activity systems (work systems)
+
+Static representations (including software)
+
+Figure 1. Relevant hierarchy of system types
+
+Intrinsic Principles (IPs) for Any PCAS
+This section identifies a set of intrinsic principles (IPs) that build on basic concepts such as boundary,
+environment, input, transformation, and output, and apply to any PCAS based on the previous section’s
+definitions and exclusions. Many of the IPs are based on cumulative insights from the IS literature and from
+
+reviewing many hundreds of management briefings produced by MBA and EMBA students concerning IT-
+reliant work systems (Alter, 2013). Table 2 lists the proposed intrinsic principles so that they can be seen
+
+together. The comments about each IP include one or two implications related to IS.
+Principle Statement of the principle
+IP1. Beneficiaries
+principle
+
+Every PCAS operates with the intention of facilitating beneficial outcomes for at least
+one beneficiary.
+
+IP2. Stakeholders
+principle
+
+Every PCAS has stakeholders including beneficiaries and usually others who care about
+its operation and outputs.
+
+IP3. Goals principle The form, characteristics, and operation of every component of a PCAS affect
+attainment of multiple goals related to the system as a whole, related to its
+components, and related to whatever it produces for its beneficiaries.
+
+IP4. Trade-offs principle Conflicts between goals of individual PCAS components and between goals of various
+
+beneficiaries and stakeholders lead to implicit or explicit trade-offs.
+
+IP 5. Activities principle Every PCAS performs activities or action.
+IP6. Internal
+interactions principle
+
+A PCAS operates through interactions between its various components and in some
+cases active interactions with components of external PCASs.
+
+IP7. External
+interactions principle
+
+PCASs produce intended benefits for their beneficiaries through externally directed
+interactions that may be performed within a PCAS or may be performed through
+boundary objects provided to external entities.
+
+IP 8. Resources principle The execution of activities and interactions typically requires resources including time,
+informational and technical resources, and people (for sociotechnical PCASs).
+IP9. Agency principle Both human participants and totally automated entities that play actor roles in a PCAS
+can be viewed as agents that may or may not pursue stated goals of the PCAS.
+
+IP10. Regulation
+principle
+
+The activities of a PCAS are guided or controlled by implicit or explicit regulation
+activities and/or rules or guidelines.
+
+IP11. Externalities
+principle
+
+Every PCAS is affected, sometimes positively and sometimes negatively, by direct
+and/or indirect interactions with the environment within which it operates.
+
+IP12. System of systems
+principle
+
+A PCAS often consists of two or more PCASs that individually conform to the intrinsic
+principles.
+
+Principles for Purposefully Constructed Activity Systems
+
+Thirty Seventh International Conference on Information Systems, Dublin 2016 7
+
+IP13. Uncertainty
+principle
+
+It is not possible to predict exactly how a PCAS will operate or what outcomes it will
+produce.
+IP14. Internal alignment
+principle
+
+Alignment of PCAS components and their interactions to the internal goals of that
+PCAS typically contributes to achievement of those goals.
+
+IP15. External alignment
+principle
+
+Alignment of PCAS components and their interactions to the goals and value-creating
+activities of beneficiaries typically contributes to achievement of those (external) goals.
+
+IP16. Congruence
+principle
+
+Congruence between components of a PCAS tends to facilitate efficient operation of
+that PCAS.
+
+IP17. Operational fit
+principle
+
+Operational fit between the form, logic, and details of a component (or an entire PCAS)
+and the form, logic, and details of complementary components (or complementary
+PCASs) tends to facilitate goal achievement.
+
+IP18. Incompletion
+principle
+
+The design of a PCAS is never complete because continual changes in the organization
+and the surrounding environment create new demands and constraints on the PCAS.
+IP19. Evolution principle PCASs evolve over time through a combination of planned and unplanned change.
+IP20. Path dependence
+principle
+
+The practicality of specific future changes in a PCAS depend partly on the path of
+planned and unplanned change that brought it to its current state.
+Table 2. Intrinsic principles for a PCAS
+
+IP1. Beneficiaries principle. Every PCAS operates with the intention of facilitating beneficial
+outcomes for at least one beneficiary. This elaboration of the “purposeful” aspect of the definition of
+PCAS suggests a number of directions for inquiring about a PCAS. The most obvious issues involve the
+nature of the intended benefits and the identity of the beneficiaries. The benefits can take many different
+forms. In some cases, the benefit is the value-in-use of a particular thing, as in the value of using a laptop
+or the value of using the answer to a query. In other cases, the value is related to a service such as counseling
+or gardening that does not produce a tangible product. In many situations the beneficiaries are only
+described in general, and are not known individually. In many cases different potential beneficiaries may
+have different views of the actual value-in-use of whatever the PCAS produces. Also, the use of the plural
+term beneficiaries is a reminder that common references to “the customer” often are misleading because
+many PCASs have multiple beneficiaries and because references to “the customer” often focuses on whoever
+pays for something rather than whoever benefits from it.
+ A long-standing problem with many information systems is that the intended benefits may not matter to
+the intended beneficiaries, especially for PCASs that were designed with little user input. Previously useful
+information systems that outlived their usefulness may no longer have current beneficiaries.
+IP2. Stakeholders principle. Every PCAS has stakeholders including beneficiaries and
+usually others who care about its operation and outputs. For example, stakeholders of an
+accounting system include recipients of accounting information, accountants who perform accounting
+work, and their managers. There are many situations in which interests and goals of important stakeholders
+such as system participants, their managers, and managers of related systems are not fully represented in
+decisions about requirements and system acceptance.
+ Many information systems have many stakeholders with diverse interests and goals, leading to obvious
+issues about the meaning of IS success (e.g., as in the DeLone-McLean (1992, 2003) IS success model).
+IP3. Goals principle. The form, characteristics, and operation of every component of a PCAS
+affect attainment of multiple goals related to the system as a whole, related to its
+components, and related to whatever it produces for its beneficiaries. Thus, the common
+research assumption that a system has a single goal is often insufficient for understanding how a PCAS
+operates and for managing it. While a single goal can be constructed mathematically by combining various
+performance metrics, doing so frequently hides valuable management information. The assumption of a
+single goal is little more than a convenience for designers, managers, or researchers.
+ Most information systems have many goals such as goals for operational costs, quality of outputs, and
+satisfaction of users. Some IS goals may be vague, such as “keeping management informed.” A key issue
+
+Principles for Purposefully Constructed Activity Systems
+
+Thirty Seventh International Conference on Information Systems, Dublin 2016 8
+for IS is to identify, prioritize, and reconcile different goals, such as providing timely information,
+providing a good user experience, minimizing operating costs, providing acceptable uptime, and so on.
+IP4. Trade-offs principle. Conflicts between goals of individual PCAS components and
+
+between goals of various beneficiaries and stakeholders lead to implicit or explicit trade-
+offs. Goal conflicts stem from a multiplicity of divergent goals related to PCAS components and related to
+
+interests of beneficiaries and stakeholders. For example, a PCAS manager’s efficiency and employee
+satisfaction goals may be completely unrelated to a PCAS beneficiary’s goals related to the form, operation,
+and quality of whatever the PCAS produces. Similarly, a PCAS’s internal efficiency goals may conflict with
+its customer satisfaction goals if efficiency goals call for devoting fewer resources to interactions and
+services that customers appreciate. Thus, whatever is declared to be “the goal” or “the goals” of a PCAS
+usually is based on explicit or unstated trade-offs. Other designers or managers might have preferred
+different trade-offs.
+ The design of many information systems involves trade-offs that may or may not be noted explicitly and
+recorded for future consideration.
+IP5. Activities principle. Every PCAS performs activities or action. Activities that are documented
+as highly specified process steps often are easy to observe and measure. Other PCAS activities are difficult
+to observe or measure, such as monitoring or managing a process or environment.
+ In relation to IS, software (such as an ERP suite or optimization algorithm) is not a PCAS because it
+cannot perform activities or action. Activities performed by computers are are guided by software but
+performed by hardware.
+IP6. Internal interactions principle. A PCAS operates through interactions between its
+various components and in some cases active interactions with components of external
+PCASs. Without those interactions, the components of the PCAS do not constitute a system. Thus, a
+summary of components without attention to their interaction provides an incomplete representation of a
+PCAS. Some internal interactions are direct, such links between steps in a sequential process. Others are
+indirect, such as sharing of scarce resources (as described in coordination theory – Crowston et al. 2006).
+Yet others are unintentional, such as a spillover interaction in which production delays in a manufacturing
+PCAS might cause unanticipated bottlenecks in a packaging PCAS.
+ Totally automated interactions of totally automated components within many information systems are
+designed to be invisible to users. Hiding totally automated components and their interactions is a great
+convenience to users, but that invisibility sometimes leads to problems that prevent the IS from operating
+at all. For the example of how one programmer “almost broke the internet by deleting 11 lines of code”
+(see Weinberger (2016) and npmjs.com (2016)).
+IP7. External interactions principle. PCASs produce intended benefits for their beneficiaries
+through externally directed interactions that may be performed within a PCAS or may be
+performed through boundary objects provided to external entities. A summary of components
+without attention to external interactions provides an incomplete representation of a PCAS. For example,
+viewing a PCAS as nothing more than a process (a set of logically interconnected steps) is insufficient for
+understanding how and why a PCAS operates as it does.
+ External interactions for information systems include transfers to customers, sometimes occur through
+communication via user interfaces, and sometimes occur indirectly through market interactions or
+through appropriation of resources.
+IP8. Resources principle. The execution of activities and interactions typically requires
+resources including time, informational and technical resources, and people (for sociotechnical
+PCASs). Resources used may include internal resources that are viewed as internal PCAS components or
+
+Principles for Purposefully Constructed Activity Systems
+
+Thirty Seventh International Conference on Information Systems, Dublin 2016 9
+resources and/or external resources that are associated with or owned by entities that receive and use
+whatever the PCAS produces. Key resources in a PCAS that produces customized application software
+include the knowledge and skill of the developers (an internal resource) and the knowledge, skill, and
+availability of representatives of the organization that will use the software (external resources). Resources
+that are needed for efficient and effective operation of a PCAS may be unavailable in general or may have
+transient availability issues, especially if the same resources are needed at the same time by other PCASs.
+Some service PCASs such as a PCAS that performs organized brainstorming may use few visible resources
+beyond the time, energy, and talent of participants.
+ Analysis and design for information systems should be more effective in considering the human,
+informational, and technical resources needed for the operation of particular information systems. In
+particular, it might focus more on the skills, knowledge, and attitudes that are expected of users.
+IP9. Agency principle. Both human participants and totally automated entities that play
+actor roles in a PCAS can be viewed as agents that may or may not pursue stated goals of the
+PCAS. Human participants of a sociotechnical PCAS may act in accordance with the objectives of the PCAS
+and/or their own personal objectives and interests. Human agents may or may not comply with the
+procedures and rules in a PCAS. Both compliance and noncompliance may be beneficial or detrimental.
+(Alter 2014, 2015a). Totally automated entities may or may not reflect developer objectives and interests
+that are inconsistent with PCAS goals. Thus, it is often inappropriate to assume that a PCAS will operate in
+a way that consistently pursues its stated goals. That phenomenon is the genesis of many workarounds.
+ The design of information systems should try to anticipate likely workarounds and should identify
+circumstances under which those workarounds will be beneficial or detrimental.
+IP10. Regulation principle. The activities of a PCAS are guided or controlled by implicit or
+explicit regulation activities and/or rules or guidelines. The essential nature of regulation and
+control in systems has been discussed for decades (e.g., Conant and Ashby 1970, Beer 1984, Cram et al.
+2016). General discussions of systems sometimes say that the existence of explicit feedback loops is an
+intrinsic characteristic of a system. In contrast, a PCAS may operate without explicit feedback loops if some
+other form of regulation is present, such as rules or constraints imposed by software. Software rules and
+constraints are especially relevant when PCASs are totally automated. While regulation is important in
+general, excessive regulation may be counterproductive, as when it might undermine a PCAS that performs
+highly creative activity or that needs to respond to unanticipated situations or inputs.
+ Regulation of an information system can occur through any combination of operational feedback,
+business rules, algorithms, and governance by managers and/or participants.
+IP11. Externalities principle. Every PCAS is affected, sometimes positively and sometimes
+negatively, by direct and/or indirect interactions with the environment within which it
+operates. Interactions between a PCAS and aspects of its environment, including other PCASs, often are
+essential for the operation of the PCAS in areas such as resource acquisition and resource allocation (e.g.,
+through customer-supplier relationships or negotiated sharing of available resources). Direct and indirect
+interactions involving outputs, byproducts, and goals of other PCASs may support or hinder the operation
+of any particular PCAS. For example, some external interactions may create obstacles to goal achievement,
+such as by seizing, consuming, or blocking resources that a PCAS needs. A PCAS that fits poorly with its
+environment tends to encounter difficulty operating effectively.
+ An information system interacts with its environment both directly through inputs and outputs and
+indirectly through factors that influence whether and how it operates and support its beneficiaries.
+IP12. System of systems principle. A PCAS often consists of two or more PCAS subsystems
+that individually conform to the intrinsic principles. The same concepts and methods that can be
+used to describe a PCAS can also be used to describe its subsystems. Decomposition of a PCAS often reveals
+two or more PCASs. This can be described as a “semi-fractal” property because successive decomposition
+of a PCAS’s subsystems is not totally fractal (Mandelbrot, 1983). (Compare with Kirikova, 2014).
+
+Principles for Purposefully Constructed Activity Systems
+
+Thirty Seventh International Conference on Information Systems, Dublin 2016 10
+Decomposition of PCASs such as information systems eventually generates small PCASs that are not worth
+subdividing further or cannot be subdivided further due to the nature of their components.
+ Most information systems can be viewed as systems of systems because the sociotechnical aspects can be
+subdivided into smaller subsystems and because the totally automated aspects usually can be subdivided
+into smaller automated subsystems.
+IP13. Uncertainty principle. It is not possible to predict exactly how a PCAS will operate or
+what outcomes it will produce. The related uncertainties stem from a variety of causes, starting with
+the behavioral discretion enabled by partial specification of sociotechnical PCASs. Even if a sociotechnical
+PCAS is governed by explicit guidelines and structure, its participants may not conform to its guidelines
+and structure. Nonconformance to inappropriate guidelines and structure may generate beneficial
+outcomes just as conformance to inappropriate guidelines and structure may generate detrimental
+outcomes (Alter, 2014, 2015a). The externalities principle (IP11) limits the predictability of both
+sociotechnical and totally automated PCASs because PCASs always operate within larger environments that
+may affect their operation in unanticipated ways. For example, two automated PCASs may need the same
+resources in order to operate or may interfere with each other’s operation in other ways.
+ Even an accurate representation of an information system may not predict whether it will operate at all
+and how well it will operate under circumstances that may not have been considered.
+IP14. Internal alignment principle. Alignment of PCAS components and their interactions to
+the internal goals of that PCAS typically contributes to achievement of those goals. Internal
+alignment is the extent to which the form, characteristics, and operation of components of a PCAS and of
+their interactions support overarching goals of the PCAS. Greater alignment between PCAS components
+usually leads to greater efficiency because alignment of the components reduces the effort necessary to
+regulate the system in order to achieve its overarching goals. Note that alignment to overarching goals does
+not imply similarity of operation. For example, a firm’s sales department and accounting department may
+operate quite differently while supporting the firm’s success goals.
+ While the desirability of internal alignment might seem obvious, many information systems have
+characteristics that are obstacles to achieving their goals. Examples include awkward procedures,
+unfriendly user interfaces, and complexity or internal inconsistencies that cause confusion.
+IP15. External alignment principle. Alignment of PCAS components and their interactions
+to the goals and value-creating activities of beneficiaries typically contributes to
+achievement of those (external) goals. Internal alignment does not suffice by itself because all PCASs
+exist to facilitate benefits for beneficiaries, and not just for the purpose of maintaining alignment. In some
+situations, goal conflicts and internal/external trade-offs may constitute compelling reasons for not fully
+supporting important goals of some beneficiaries.
+ Many information systems are designed to support beneficiaries whose business issues change over time,
+ultimately resulting in a lack of alignment between the IS and beneficiary needs.
+IP16. Congruence principle. Congruence between components of a PCAS tends to facilitate
+efficient operation of that PCAS. The congruence between two PCAS components is the extent of their
+similarity in form, logic, and details. Greater congruence between components of a PCAS makes it easier to
+manage the PCAS and resolve conflicts. Similarity of form often is possible for components of similar types
+even though it may be impossible for different types of components (e.g., people and technologies). For
+example, using two documents that are formatted similarly usually is more efficient than using two
+documents that are formatted differently. Likewise, using two technologies that are more similar to each
+other is usually more efficient than using two technologies that are less similar to each other. The effect of
+shared language fluency on human communication applies in a similar way. Note that PCAS components
+can be aligned without being congruent and can be congruent without being aligned. For example, two
+different departments within a company might be aligned with regard to the organization’s goals even
+
+Principles for Purposefully Constructed Activity Systems
+
+Thirty Seventh International Conference on Information Systems, Dublin 2016 11
+though they are highly incongruent because they are managed in totally different ways and use incompatible
+technology. In another example, departments with similar management styles and compatible technologies
+still might work toward mutually contradictory goals that generate obstacles to achieving the organization’s
+overarching goals.
+ This principle leads to maximizing compatibility of technologies in related information systems.
+IP17. Operational fit principle. Operational fit between the form, logic, and details of a
+component (or an entire PCAS) and the form, logic, and details of complementary
+components (or complementary PCASs) tends to facilitate goal achievement. Lower levels of
+operational fit between complementary components lead to inefficiency by requiring various forms of
+translation or adaptation in order for the complementary parts to work together. Neither congruence in
+form nor alignment to overarching goals guarantees operational fit of two PCAS components. Conversely,
+operational fit of two components does not guarantee that they are aligned or congruent because they may
+serve different overarching goals (non-alignment) and because their operational fit may require
+complementarity in form. The operational fit principle implies that changes in any part of a PCAS might
+call for corresponding changes elsewhere in the PCAS. For example, new availability of participants with
+different skills, knowledge, and incentives might make it possible to adopt different processes and methods.
+ The operational fit principle implies that information systems for individual groups or departments often
+cannot be designed well without consideration of complementary needs of other groups.
+IP18. Incompletion principle. The design of a PCAS is never complete because continual
+changes in the organization and the surrounding environment create new demands and
+constraints on the PCAS. This restatement of Cherns’ (1976, 1987) sociotechnical principle of
+incompletion says that the design process for a PCAS does not end. Rather, the PCAS transitions from one
+design to another as long as the PCAS remains operational.
+ The related to challenge for information systems is how to establish an appropriate balance between
+stability and flexibility. If the design of an IS remains stable for too long, the IS becomes less and less
+relevant to current business issues. If the design changes too rapidly, users find it difficult to keep up.
+IP19. Evolution principle. PCASs evolve over time through a combination of planned and
+unplanned change. Planned change occurs through formal projects that have reasonably distinct
+initiation, development, and implementation phases. Unplanned change occurs through ongoing PCAS
+maintenance activities, bug fixes, adaptations by PCAS participants, workarounds, and other changes that
+are not treated as separate, formal projects. Most unplanned change occurs endogenously without
+significant external interventions. Both planned change and unplanned change may generate PCAS
+characteristics that were not anticipated by designers or managers. In general, managers and designers
+should not assume that a sociotechnical PCAS will retain the structure and operational characteristics that
+were built into it. Instead, they should assume that participants in a sociotechnical PCAS may change it to
+suit their own perceptions and goals.
+ Regardless of how carefully an information system is designed, users may invent workarounds and other
+alternative practices that suit their needs more effectively than whatever design they received.
+IP20. Path dependence principle. The practicality of specific future changes in a PCAS
+depend partly on the path of planned and unplanned change that brought it to its current
+state. Thus, PCASs whose current form and operation are extremely similar may have quite different
+potentials for both planned and unplanned change due to differences in the path that brought them to their
+current situations.
+ The feasibility of changing an information system in any particular way depends partly on the path
+through which the information system attained its current state.
+
+Principles for Purposefully Constructed Activity Systems
+
+Thirty Seventh International Conference on Information Systems, Dublin 2016 12
+
+Observability Principles (OPs) for Any PCAS
+The intrinsic principles listed above are based on the nature of PCASs as a category. The following
+observability principles are related to different aspects of observing or analyzing any particular PCAS.
+OP1: Subjectivity principle. All descriptions of PCASs are subjective because they are based
+on knowledge, skill, biases, and incentives of the observers who produce the descriptions.
+Different observers may produce different descriptions of a PCAS even if they use similar visualization or
+analysis methods and technologies. Consequently, collaboration in analyzing, designing, operating, and
+managing a PCAS often requires reconciliation of inconsistent descriptions of the same PCAS.
+OP2: Identity and integrity principle. A PCAS can be viewed as a different PCAS after
+planned and/or unplanned changes affect its fundamental identity or integrity. The perception
+of whether a change transforms an existing PCAS into a different PCAS is highly subjective. For example, a
+reimbursement system is fundamentally the same system when a less able substitute employee performs
+the same activities that a more able employee performed more efficiently yesterday. It becomes a different
+PCAS, or at least a different version of the PCAS, when the introduction of fundamentally different
+processes, participants, information, or technologies changes its nature and/or the nature of whatever it
+produces.
+OP3. Decomposition principle. Decomposition of a PCAS into smaller PCASs is often useful
+for understanding, analyzing, designing, and managing that PCAS. The decomposition of a PCAS
+into different subsystems is a matter of observation, not a given. The nature of a PCAS as a purposefully
+constructed activity system provides only general guidance about how to decompose a PCAS. To the extent
+possible, the decomposition process should separate the activities into individually meaningful sets of
+activities that are the core of separate but related PCASs.
+OP4. Coherence principle. Greater diversity of activities and actors in what is treated as a
+PCAS tends to reduce the coherence of what is observed. Coherence of a PCAS is the extent to
+which it is understandable, ordered, logical, and consistent. Greater coherence makes analysis, design,
+operation, and management of a PCAS easier, less expensive, and less error-prone. Greater diversity of
+activities, actors, and resources within a very large PCAS such as an entire organization often results in
+lower coherence. That leads to difficulty in analyzing, designing, operating, and managing the PCAS as a
+whole without subdividing it into smaller, more readily understandable subsystems.
+OP5. Approximation principle. Descriptions of PCASs at every level of detail are
+approximations. This principle implies that it is impossible to produce a 100% correct description of a
+sociotechnical PCAS. It may be possible to produce a highly detailed description of the form and operation
+of a totally automated PCAS, but even in that case there is a limit to the extent to which the activities can be
+described in detail, especially when some of the activities may be subcontracted to automated services that
+are created and managed elsewhere.
+OP6. Granularity principle. A specific PCAS can be described and analyzed at different levels
+of detail for different purposes. Different levels of detail in describing a PCAS are useful for different
+purposes. Consider two descriptions. The first is designed to support preliminary discussions about the
+purpose, boundaries, and content of a PCAS. The second is designed to uncover operational details, such as
+the logic of activities within a PCAS or the preconditions and triggers that are required before those
+activities occur. While the two descriptions should be different because they serve different purposes,
+ideally there should be a reliable way to relate one description to another.
+OP7. Zooming principle. Understanding and analysis of a PCAS is facilitated by an ability to
+transition smoothly between different levels of detail that may be generated for different
+purposes. Examples of such purposes include attaining agreement about the boundaries of the PCAS that
+is being discussed, attaining agreement about the main activities within the PCAS, analyzing the PCAS in
+detail, and producing or otherwise acquiring application software that supports the PCAS.
+Normative Principles for Particular Types of PCAS
+The principles described thus far are intrinsic principles and observability principles that apply to any
+PCAS, regardless of whether it is sociotechnical or totally automated, highly structured or semi-structured,
+
+Principles for Purposefully Constructed Activity Systems
+
+Thirty Seventh International Conference on Information Systems, Dublin 2016 13
+large or small, and so on. This section fills out this paper’s view of principles that are relevant to IS by
+introducing normative principles and design patterns for particular types of PCAS.
+Contextually-focused normative principles that are relevant in the IS field tend to be principles that apply
+to large categories of PCAS such as sociotechnical systems or totally automated systems or apply to special
+cases of large categories, such as manufacturing systems or automated database management systems.
+Table 3 lists a small subset of the normative sociotechnical principles suggested by Cherns (1979, 1987),
+Berniker (1996), Clegg (2000), Majchrzak and Borys (2001) and Alter and Wright (2010). The principles
+selected for Table 3 were chosen as three typical examples among many others from each source, as
+indicated by including in Table 3 the numbering of each principle within each source. Principles in Table 3
+illustrate how normative principles for specific types of systems focus on topics that would not be included
+in a list of intrinsic principles or observability principles for PCAS in general. For example, most of the
+normative principles in Table 3 do not apply directly to totally automated systems, which demonstrates the
+possible need for separate layers of concepts and principles for PCAS in general and specific types of PCAS.
+Source of
+principles
+
+Selected sociotechnical principles, as numbered by authors within their
+lists of principles. (Many other principles might have been included.)
+Cherns (1979) 2. Minimal critical specifications: Only the minimal critical allocation of tasks to jobs, jobs to
+roles, and objectives and methods that is absolutely essential should be specified.
+3. The socio-technical criterion: Variances, if they cannot be eliminated, must be controlled
+as near to their point of origin as possible.
+8. Design and human values: An objective of organizational design should be to provide ahigh
+quality of work.
+
+Berniker (1996) 3. Technological and Organizational Choice: Technology does not determine work
+organization or design. There are choices in the design of technical systems and the
+organizations that operate them.
+10. Constraint-Free Design: Create ideal alternative designs. Avoid premature "realism".
+11. Self-Regulating Work Groups: The self-regulating work group is the building block of the
+organization. Design work groups rather than individual jobs.
+
+Clegg (2000) 8. Core processes should be integrated.
+
+9. Design entails multiple task allocations between and amongst humans and machines.
+11. Systems should be simple in design and [should] make problems visible.
+
+Majchrzak and
+Borys (2001)
+
+1. Specifications for ideal work roles: Workers have basic literacy skills .... Workers are
+provided the dynamically changing information on scheduling .... Workers are given
+authority to access the resources they need to perform their work.
+3. Specifications for ideal customer involvement: Customers involved in evaluating the unit
+... Customers helping to redesign parts ... Customers helping to develop new products
+7. Specifications for ideally motivating rewards: Rewards are tied to performing on the
+tracked performance standards. ... Rewards are based on a mixture of individual, unit (or
+team), and larger-unit performance.
+
+Alter and Wright
+(2013)
+
+1: Please the customers.
+5. Encourage appropriate use of judgment.
+10: Serve the participants.
+
+Table 3. Illustrative examples from each of five articles about sociotechnical principles
+Figure 2 illustrates how the idea of PCAS fits into broader discussions of system principles. The different
+types of systems that fit under the general systems heading in Figure 2 include natural systems, social
+systems, sociotechnical systems, totally automated systems and abstract systems. The rectangle for a
+general system viewpoint represents whatever might be common to every system type included in the
+vertical dimension (see earlier quotation from Skyttner, 1996). The horizontal shading says that the concept
+
+Principles for Purposefully Constructed Activity Systems
+
+Thirty Seventh International Conference on Information Systems, Dublin 2016 14
+of PCAS excludes natural systems and abstract systems. The rectangle for PCAS includes sociotechnical
+systems and totally automated systems (both within the IS discipline’s content) plus many social systems
+that are not sociotechnical. The arrow from the general systems rectangle to the PCAS rectangle says that
+general system ideas apply more widely than the PCAS viewpoint, concepts, and principles. Arrows to the
+two rectangles on the right of the PCAS rectangle say that the PCAS viewpoint, concepts, and principles
+apply more widely than normative principles for sociotechnical systems and for totally automated systems.
+The rightward arrows from those two rectangles point to more specialized knowledge. One rectangle is for
+situational management know-how, such accepted wisdom and rules of thumb for managing software
+projects or for encouraging the diffusion of non-mandatory technology use within a firm. The other
+rectangle is for design patterns that are typically viewed as solutions to particular recurring problems in
+technical realms. For example, a book on software design patterns says that their documentation typically
+includes name, intent, problem, solution, participants and collaborators, and consequences. A typical
+design pattern is the “façade pattern”, which simplifies use of an existing (software) subsystem by providing
+a unified interface to a set of interfaces in that subsystem (Shalloway and Trott 2004).
+
+PCAS viewpoint
+PCAS concepts
+PCAS - intrinsic
+principles
+PCAS observability
+principles
+
+Normative
+principles for
+sociotechnical
+systems
+Normative
+principles for
+totally automated
+systems
+
+Specific types of PCAS Systems in
+general
+
+Abstract
+systems
+
+Purposefully constructed
+Activity systems (PCAS)
+
+Situational
+management
+know-how
+Design patterns
+for totally
+automated
+systems
+
+Totally
+automated
+systems
+Sociotechnical
+systems
+Social
+systems
+
+X Y means X applies more widely than Y
+
+General
+system
+viewpoint
+General
+system
+concepts
+
+Natural
+systems
+
+Figure 2. Where PCAS fits in an ISBoK
+
+DISCUSSION AND CONCLUSION
+The idea of PCAS was developed as part of an inquiry about what is genuinely basic in IS and how to
+articulate a set of basic principles, not just a disorganized and often internally contradictory accumulation
+of IS-related propositions, empirical findings, and pronouncements of management wisdom. This paper
+introduced the concept of purposefully constructed activity system and proposed 20 intrinsic principles
+(IPs) and 7 observability principles (OPs) that apply to any PCAS, regardless of whether it is sociotechnical
+or totally automated, totally informational or partly physical, highly structured or semi-structured, large or
+small, and so on. It noted that those principles may lead to contextually-focused normative principles that
+apply to specific types of PCAS including sociotechnical systems that have human participants and totally
+automated information systems that have no human participants within their boundaries but are built by
+people and are used directly or indirectly by people.
+As with many non-mathematical contributions about fundamental concepts and principles, there is no
+proof that the proposed definitions and principles provide an optimal lens for understanding the IS field or
+any subset of it. Also, it is quite likely that further work on these principles will result in a better set of
+principles. While recognizing those limitations, the rest of this paper focuses on potential applications.
+The concept of PCAS as a container for IS. As illustrated in Figure 2, concepts associated with
+systems in general need to cover everything from natural systems to totally abstract systems and therefore
+are unnecessarily broad as a basis for understanding the sociotechnical IS and totally automated IS that
+constitute the core subject matter of the IS field. The new concept of PCAS encompasses that core subject
+matter in a way that avoids entanglement in contradictory definitions of IS exemplified by the inconsistent
+
+Principles for Purposefully Constructed Activity Systems
+
+Thirty Seventh International Conference on Information Systems, Dublin 2016 15
+definitions in Table 1. PCAS and the related principles provide concepts and expectations that should apply
+to all information systems, service systems, IT-reliant work systems, supply chains, self-service systems,
+and IS projects (temporary PCASs). Thus, PCAS concepts and principles provide a way to understand
+information systems without making implicit or explicit assumptions about a particular type of information
+system or project that particular authors or researchers happen to study or favor for other reasons.
+Using PCAS to explore the nature of IS research. The discourse about the nature of IS and IS theories
+has gone on for decades (e.g., Keen 1980; Orlikowski and Iacono 2001; Baskerville and Myers 2002;
+Benbasat and Zmud 2003; Agarwal and Lucas 2005; Gregor 2006; Grover et al. 2006; King and Lyytinen
+2006; Wade et al. 2006; Avison and Malaurent 2014). The idea of PCAS and PCAS principles could provide
+a new approach for asking what that research is really about. Following the type of method used in
+Orlikowski and Iacono (2001) and other inquiries about the content of journals in the “basket of eight” IS
+journals (College of Senior Scholars, 2011), it would be possible to analyze whether PCAS principles are
+present or could have had influence through their implications on any set of research articles or findings.
+For example, exploring ways in which the technical and the social featured in the IS literature (e.g., as in
+Sarker et al. 2013) might show how those approaches reflect, ignore, or contradict PCAS principles.
+Extending SA&D methods. Many SA&D textbooks implicitly assume that system means software and
+that system development is software development. In relation to Figure 1, they focus on totally automated
+systems and not on sociotechnical systems. For example, Dennis et al. (2009, pp. 4-5) says, "The analysis
+phase answers the questions of who will use the system, what the system will do, and where and when it
+will be used." ... "The design phase decides how the system will operate, in terms of hardware, software, and
+network infrastructure; the user interface, forms and reports; and the specific programs, databases, and
+files that will be needed." Similar views of "the system" appear in the first chapters of Hoffer et al. (2008),
+Kendall and Kendall (2011), and Valacich et al. (2012). Follow-on research might use PCAS concepts,
+principles, and related expectations to evaluate existing SA&D methods and possibly extend those methods
+by considering PCAS topics that are ignored or only hinted at.
+Analyzing and extending various sets of contextually-focused normative principles. Table 3
+presented three representative examples from each of five different sets of normative sociotechnical
+principles that overlap substantially. PCAS principles could provide a useful lens for analyzing those and
+other sets of principles in their entirety (rather than just the selected examples shown in Table 3) to better
+understand how they overlap, how they might be clarified, how they might be generalized, and where and
+why particular issues are addressed in one set of normative principles and ignored by another.
+Analyzing and comparing theory-based perspectives on IS. The concept of PCAS provides an
+envelope that circumscribes a number of theory-based perspectives on systems in the IS field including
+activity theory, agency theory, organizational routines, practice theory, sociotechnical systems theory, and
+work system theory. With PCAS as the unit of analysis, PCAS principles can be used as a lens for identifying
+ideas that are included, implied, or excluded by each perspective. That could create a clearer notion of how
+those perspectives agree, overlap, or diverge in their coverage of the same set of ideas. It could also lead to
+clarifying or expanding many of the principles proposed in this paper.
+Reflecting on the rationale of widely cited models in IS. The most widely cited IS research articles
+about topics such as technology acceptance and IS success (e.g., Davis et al. 1989; Venkatesh et al. 2003;
+Delone and McLean 1992, 2003) build on stated or unstated assumptions about the boundaries of the
+relevant system, the meaning of usage and system usage, the meaning of user satisfaction, and so on. The
+definition of PCAS and the PCAS principles can be applied in exploring what those and other widely cited
+models actually mean and whether alternative models based on PCAS ideas might prove beneficial.
+Moving toward an ISBoK. This paper’s introduction noted that inconsistent definitions of information
+system and other basic terms are an obstacle to organizing the knowledge produced to date by decades of
+IS research and decades of observations by practitioners. The superficially tempting idea of building directly
+on general system theory as the basis for an ISBoK seems impractical because it is too general to lead
+directly to practical insights about information systems. From the other side, starting from situational
+management know-how would require reconciling inconsistencies between various research and
+practitioner sources regarding basic assumptions, vocabulary, and normative content.
+This paper’s ideas about PCAS and PCAS principles might provide a practical starting point for developing
+an ISBoK. The hierarchical progression in Figure 2 from general system thinking to management know-
+
+Principles for Purposefully Constructed Activity Systems
+
+Thirty Seventh International Conference on Information Systems, Dublin 2016 16
+how and software design patterns shows how PCAS ideas build on general system concepts while also
+providing a plausible link to normative principles such as those in Table 3. They also can be used to
+illuminate areas of IS research and IS theories, as mentioned above. A basis of PCAS concepts and principles
+might provide a starting point for organizing IS concepts, principles, and empirical findings since
+information systems are a type of PCAS.
+Alter (2012) provides a hint at how this might be done. It proposes that concepts, generalizations, and other
+components of an ISBoK might be organized using a “knowledge cube” illustrated in Figure 3. The
+dimensions in Alter (2012) were based on work systems rather than PCAS, but the basic idea is the same.
+ The horizontal dimension identifies different categories of knowledge objects, i.e., concepts, theories,
+datasets, and so on. The numbers in the horizontal dimension might represent 1) types of resources, 2)
+types of actions, 3) characteristics, 4) metrics, 5) phenomena, 6) principles, 7) datasets, and so on. Those
+categories differ somewhat from those in Alter (2012). Other categories might be better.
+ The vertical dimension identifies general aspects of any PCAS to which a knowledge object might apply.
+For example, customer satisfaction is a metric (4) related to beneficiaries, speed and error rate are metrics
+(4) related to activities whereas flexibility and scalability are characteristics (3) for a PCAS as a whole.
+IP1 through IP20 are principles (6) for a PCAS as a whole, and so on.
+ A depth dimension identifies the type of PCAS to which a knowledge object applies, e.g., every PCAS or
+special cases such as totally automated PCAS, a sociotechnical IS, or a project. The special cases would
+inherit knowledge objects such as the concepts speed, error rate, flexibility, and scalability from more
+general cases such as every PCAS.
+A valuable triangulation approach for developing an ISBoK could be based on categorizing knowledge
+objects using the horizontal and vertical dimensions combined with the inheritance of knowledge objects
+by special cases from more general layers. Some o basic concepts that apply to every PCAS can be filled in
+somewhat easily, e.g., flexibility of the PCAS as a whole, or speed and error rate of the activities belong in
+the layer for PCAS as a whole. The current set of IPs or an improved version would fit as principles in the
+same layer. Normative principles would prove more problematic. For example, it is not clear where to put
+the principles of “management support” and “better communication” the next time they are rediscovered.
+
+1 2 3 4 5 6 7
+
+Etc. – other cases
+Supply chain
+Project
+Sociotechnical IS
+Totally automated IS
+Sociotechnical PCAS
+Totally automated PCAS
+Every PCAS
+PCAS as a whole
+Beneficiary
+Activity
+Environment
+Infrastructure
+Etc.
+Figure 3. Outline of a “knowledge cube” that might be used to organize an ISBoK
+Acknowledgements
+My sincere thanks to Carson Woo and Alirio Rosales of the University of British Columbia for inspiring me
+to pursue this research and for engaging in a fruitful dialogue (explained in the brief methodology section)
+that contributed to the ideas presented here. More of that type of curiosity and collaborative spirit would
+be very useful in moving the field forward.
+
+Principles for Purposefully Constructed Activity Systems
+
+Thirty Seventh International Conference on Information Systems, Dublin 2016 17
+
+REFERENCES
+Ackoff, R.L., 1971. “Towards a system of systems concepts,” Management Science, (17:11), pp. 661-671.
+Agarwal, R., and Lucas Jr, H. C., 2005. “The information systems identity crisis: Focusing on high-visibility
+and high-impact research,” MIS Quarterly, (29:3), pp. 381-398.
+Alter, S. 2008. “Defining Information Systems as Work Systems: Implications for the IS Field,” European
+Journal of Information Systems, (17:5), pp. 448-469.
+Alter, S., 2012. “The knowledge cube: Scaffolding for a body of knowledge about information
+systems,” Proceedings of ECIS 2012, the 20th European Conference on Information Systems. June
+2012.
+Alter, S. 2013. “Work System Theory: Overview of Core Concepts, Extensions, and Challenges for the
+Future,” Journal of the Association for Information Systems, (14:2), pp. 72-121.
+Alter, S. 2014. "Theory of Workarounds," Communications of the Association of Information Systems,
+(34:55), pp. 1041-1066.
+Alter, S., 2015a. “Beneficial Noncompliance and Detrimental Compliance: Expected Paths to Unintended
+Consequences” in 21st Americas Conference on Information Systems.
+Alter, S. 2015b. “Work System Theory as a Platform: Response to a Research Perspective Article by
+Niederman and March,” Journal of the Association for Information Systems (16:6), p. 485.
+Alter, S. and Wright, R. 2010. "Validating Work System Principles for Use in Systems Analysis and
+Design," Proceedings of ICIS 2010, the 31st International Conference on Information Systems.
+Avison, D. and Malaurent, J. 2014. “Is theory king?: questioning the theory fetish in information systems,”
+Journal of Information Technology, (29:4), pp. 327-336
+Bacon, J. and Fitzgerald, B. 2001. “A Systemic Framework for the Field of Information Systems,” Database,
+32(2), pp 46-67.
+Barki, H., Rivard, S. and Talbot, J. 1988. “An Information Systems Keyword Classification Scheme,” MIS
+Quarterly, 12(2), pp. 299-322.
+Baskerville, R. L. and Myers, M. D. 2002. “Information systems as a reference discipline,” MIS Quarterly,
+(26:1), pp. 1-14.
+Beer, S., 1984. “The viable system model: Its provenance, development, methodology and
+pathology,” Journal of the operational research society, (35:1), pp. 7-25.
+Benbasat, I. and Zmud, R. W. 2003. “The identity crisis within the IS discipline: Defining and
+communicating the discipline's core properties,” MIS Quarterly, (27:2), pp. 183-194.
+Berniker, E., 1996. “Some principles of sociotechnical systems analysis and design.”
+http://www.plu.edu/~bernike/SocioTech/PRincples%20of%20STS%20design.doc
+Bostrom, R.P. and Heinen, J. S. 1977. “MIS Problems and Failures: A Socio-Technical Perspective. Part I:
+The Causes.” MIS Quarterly (1:3), pp. 17-32.
+Boulding, K. 1964. "General systems as a point of view," in J. Mesarovic, Views on General Systems Theory,
+New York: John Wiley.
+Checkland, P. 1999a. “Systems Thinking,” pp. 45-56 Currie, W. and Galliers, R., 1999. Rethinking
+management information systems: An interdisciplinary perspective. Oxford University Press.
+Checkland, P. 1999b. Systems Thinking, Systems Practice (Includes a 30-year retrospective), Chichester,
+UK: John Wiley & Sons.
+Cherns, A. 1976. “Principles of Socio-technical Design”, Human Relations, (2:9), pp. 783-792.
+Cherns, A. 1987. “Principles of sociotechnical design revisted”, Human Relations, (40:3), pp. 153-161.
+Churchman, C. W. 1979. The Systems Approach, revised and updated. Dell Publishing, New York, NY.
+Clegg, C.W., 2000. “Sociotechnical principles for system design.” Applied Ergonomics, (31:5), pp. 463-477.
+College of Senior Scholars. 2011. “Senior Scholars Basket of Journals,” Assocition for Information Systems,
+https://aisnet.org/general/custom.asp?page=SeniorScholarBasket
+Conant, R.C. and Ashby, R. W. 1970. ‘Every good regulator of a system must be a model of that
+system.” International journal of systems science, (1:2), pp.89-97.
+Cram, W. A., K. Brohman, and R. B. Gallupe. 2016. "Information Systems Control: A Review and
+Framework for Emerging Information Systems Processes," Journal of the Association for
+Information Systems. (17: 4, 2), pp. 216-266.
+
+Principles for Purposefully Constructed Activity Systems
+
+Thirty Seventh International Conference on Information Systems, Dublin 2016 18
+Crowston, K., J. Howison, J. and Rubleske, J. 2006. “Coordination Theory: A Ten Year Retrospective,” in
+P. Zhang and D. Galletta, D. (eds.) Human-Computer Interaction in Management Information
+Systems – Foundations, Armonk, NY: M. E. Sharpe, Inc.
+Davis, F.D., Bagozzi, R.P. and Warshaw, P.R. 1989. “User acceptance of computer technology: A comparison
+of two theoretical models”. Management Science, (35:8), pp. 982-1003.
+Davis, G. B. 2000. “Information systems conceptual foundations: looking backward and forward.” In
+Organizational and Social Perspectives on Information Technology, Baskerville, R., Stage, J. and
+Degross, J. I., eds., pp 61–82, Kluwer Academic Publishers, Boston.
+DeLone, W., and McLean, E. 1992. “Information Systems Success: The Quest for the Dependent Variable,”
+Information Systems Research (3:1), pp. 60–95.
+DeLone, W., and McLean, E. 2003. “The DeLone and McLean Model of Information Systems Success: A
+Ten-Year Update,” Journal of Management Information Systems (19:4), pp. 9–30.
+Dennis, A., Wixom, B.H., and Roth, R. M. 2009. Systems Analysis & Design with UML Version 2.0: an
+Object-Oriented Approach, 3rd, ed., New York, NY: John Wiley & Sons, Inc.
+Engeström, Y., 1993. “Developmental studies of work as a testbench of activity theory: The case of primary
+care medical practice,” Understanding practice: Perspectives on activity and context, pp.64-103.
+Feldman, M.S. and Pentland, B.T. 2003. “Re-theorizing organizational routines as a source of flexibility and
+change.” Administrative Science Quarterly, (48), pp. 94-118.
+Gregor, S. (2006) “The Nature of Theory in Information Systems,” MIS Quarterly, (30:3), pp. 611-642.
+Grover, V., Ayyagari, R., Gokhale, R., and Lim, J., 2006. “About reference disciplines and reference
+differences: a critique of Wade et al.” Journal of the Association for Information Systems, (7:5),
+pp. 336-350.
+Grover, V. and Lyytinen, K. 2015, “New State of Play in Information Systems Research: The Push to the
+Edges,” MIS Quarterly, (39:2), pp. 271-296.
+Hevner, A., March, S. T., Park, J., and Ram, S. 2004. “Design science in information systems research,” MIS
+Quarterly, (28:1), pp. 75-105.
+Hirschheim, R. 2008. “Some Guidelines for the Critical Reviewing of Conceptual Papers,” Journal of the
+Association for Information Systems, (9:8), pp. 432-441.
+Hirschheim, R. and Klein, H.K. 2003. "Crisis in the IS Field? A Critical Reflection on the State of the
+Discipline," Journal of the Association for Information Systems, (4)5, pp. 237-293.
+Hoffer, J. A., George, J. F., and Valacich, J. S. 2008. Modern Systems Analysis and Design, 5th ed., Upper
+Saddle River, NJ: Pearson Prentice Hall.
+Iivari, J., Hirschheim, R. and Klein, H.K., 2004. “Towards a distinctive body of knowledge for Information
+Systems experts: coding ISD process knowledge in two IS journals.” Information Systems
+Journal, (14:4), pp. 313-342.
+Jessup, L. and Valacich J. 2008. “Information Systems Today: Managing in the Digital World”, 3rd ed.,
+Pearson Prentice Hall, Upper Saddle River, NJ.
+Kaptelinin, V. and Nardi, B.E. 2006. “Acting With Technology: Activity Theory and Interaction Theory,”
+Cambridge: MIT Press.
+Keen, P. G. W. 1980. “MIS Research: Reference Disciplines and A Cumulative Tradition,” ICIS,
+Philadelphia, PA, 1980, pp. 9-18.
+Kendall, K. E. and Kendall, J. E. 2011. Systems Analysis and Design, 8th ed., Upper Saddle River, NJ:
+Pearson Prentice Hall.
+King, J. L., and Lyytinen, K. 2006. “The Market of Ideas as the Center of the IS Field,” Communications of
+the Association for Information Systems, (17: 38), pp. 841-849.
+Kirikova, M., 2014. “Work Systems based Fractal Architecture of Information Systems,” Conference on
+Advanced Information System Engineering, CAiSE 2014 (Forum/Doctoral Consortium) pp. 97-
+104.
+Land, F. 1985. “Is an Information Theory Enough?” , The Computer Journal, (28:3), pp. 211-215.
+Lee, A. S. 2010. "Retrospect and prospect: information systems research in the last and next 25 years,"
+Journal of Information Technology, (25), 336-348.
+Luukkonen, I., Korpela, M., and Mykkänen, J. 2010. "Modelling Approaches in the Early Phases of
+Information Systems Development," Proceedings of ECIS 2010, the 18th European Conference on
+Information Systems.
+Lyytinen, K. and Newman, M., 2008. Explaining information systems change: a punctuated socio-technical
+change model. European Journal of Information Systems, 17(6), pp.589-613.
+
+Principles for Purposefully Constructed Activity Systems
+
+Thirty Seventh International Conference on Information Systems, Dublin 2016 19
+Magalhães, R. 1999. Organizational Implementation of Information Systems: towards a new theory,
+Ph.D. Thesis, London School of Economics.
+Majchrzak, A. and Borys, B. 2001. “Generating testable socio-technical systems theory,” Journal of
+Engineering Technology and Management, 1105, 1-22.
+Mandelbrot, B.B., 1983. The fractal geometry of nature (Vol. 173). Macmillan.
+Mumford, E., 2006. The story of socio‐technical design: Reflections on its successes, failures and
+potential. Information Systems Journal, 16(4), pp.317-342.
+Npmjs.com. 2016. “kik, left-pad, and npm,” The npm Blog,
+http://blog.npmjs.org/post/141577284765/kik-left-pad-and-npm
+Orlikowski, W, J, and Iacono, C. S. 2001. “Desperately seeking the IT in IT research: a call to theorizing the
+IT artifact,” Information Systems Research, (12:2), pp 121-134.
+Pentland, B. T., Haerem, T. and Hillison, D. 2011. "The (N)Ever-Changing World: Stability and Change in
+Organizational Routines," Organization Science, (22:6), pp. 1360-1383.
+Recker, J.C., Indulska, M., Rosemann, M. and Green, P., 2006. “How good is BPMN really? Insights from
+theory and practice,” 14th European Conference on Information Systems, Goeteborg, Sweden
+Rivard, S. 2014. “Editor's Comments: The Ions of Theory Construction,” MIS Quarterly, (32:2), pp. iii-xiii.
+Rosemann, M., Green, P. and Indulska, M., 2004. “A reference methodology for conducting ontological
+analyses,” in Conceptual Modeling–ER 2004 (pp. 110-121). Springer Berlin Heidelberg.
+Rowe, F. 2012. “Toward a Richer Diversity of Genres in Information Systems Research: New Categorization
+and Guidelines,” European Journal of Information Systems, (21:5), pp. 469-478.
+Saltzer, J.H. and Kaashoek, M.F., 2009. Principles of computer system design: an introduction. Morgan
+Kaufmann.
+Sarker, S., Chatterjee, S., and Xiao, X. 2013. “How “Sociotechnical” is our IS Research? An Assessment and
+Possible Ways Forward”. Thirty Fourth International Conference on Information Systems, Milan
+2013
+Shalloway, A. and Trott, J. R. 2004. Design patterns explained: a new perspective on object-oriented
+design,. Pearson Education.
+Simon, H. A. 1966. The sciences of the artificial. MIT Press.
+Skyttner, L. 1996. "General systems theory: origin and hallmarks," Kybernetes (25:6), pp. 16-22.
+Skyttner, L. 2005. General Systems Theory: Problems, Perspectives, Practice, Singapore: World Scientific
+Publishing.
+Trist, E. 1981. “The Evolution of socio-Technical Systems: A Conceptual Framework and an Action Research
+Program.” in Van de Ven and W. Joyce, Perspectives on Organizational Design and Behavior, NY:
+Wiley Interscience.
+Valacich, J. S., George, J. F., and Hoffer, J. A. 2012. Essentials of Systems Analysis and Design. Upper
+Saddle River, NJ: Pearson Prentice Hall.
+Venkatesh, V., Morris, M.G., Davis, G.B. and Davis, F.D. 2003. User acceptance of information technology:
+Toward a unified view. MIS Quarterly, 27 (3), 425-478.
+Wade, M., Biehl, M., and Kim, H., 2006. “Information Systems is Not a Reference Discipline (And What
+We Can Do About It),” Journal of the Association for Information Systems, (7:5), pp. 247-268.
+Wand, Y. and Weber, R. 1990. “Toward a Theory of the Deep Structure of Information Systems.”
+Proceedings of the Eleventh International Conference on Information Systems, Copenhagen.
+Weick, K.E., 1995. “What theory is not, theorizing is,” Administrative Science Quarterly, (40:3), pp.385-
+390.
+Weinberger, M. 2016. “One programmer almost broke the internet by deleting 11 lines of code,” Business
+
+Insider, Mar. 23, 2016. http://www.businessinsider.com/npm-left-pad-controversy-explained-
+2016-3
